@@ -5,5 +5,7 @@
 - [ip](https://github.com/indutny/node-ip) ip地址工具
 - [archiver](https://github.com/archiverjs/node-archiver) 跨平台打包功能模块
 - [chalk](https://github.com/chalk/chalk) 终端美化
+- [shelljs](https://github.com/shelljs/shelljs) js种执行shell命令
+- [http-server](https://github.com/http-party/http-server) 启动本地服务器
 
 ### 前端NPM包
