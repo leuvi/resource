@@ -8,4 +8,8 @@
 - [shelljs](https://github.com/shelljs/shelljs) js种执行shell命令
 - [http-server](https://github.com/http-party/http-server) 启动本地服务器
 
-### 前端NPM包
+### 前端NPM工具包
+- [momentjs](http://momentjs.cn) 日期处理类库
+
+### Vue精选组件
+- [vuedraggable](https://github.com/SortableJS/Vue.Draggable) 拖放组件
