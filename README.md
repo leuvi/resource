@@ -10,6 +10,7 @@
 - [commander.js](https://github.com/tj/commander.js/) 解析命令和参数
 - [download-git-repo](https://www.npmjs.com/package/download-git-repo) 下载并提取git仓库
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js/) 命令行用户界面
+- [minimist](https://github.com/substack/minimist) 轻量级的命令行参数解析引擎
 - [ora](https://github.com/sindresorhus/ora) 终端加载动画效果
 - [log-symbols](https://github.com/sindresorhus/log-symbols) 终端个性化图标
 
